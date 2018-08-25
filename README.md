@@ -1,2 +1,2 @@
-# hackfest2015_howto
-White paper written by the team after the CTF
+# Hackfest 2015 How To
+White paper written by the team after the CTF.
